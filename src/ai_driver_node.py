@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Example Python node to listen on a specific topic."""
+"""AI wheel driver node"""
 
 # Import required Python code.
 import rospy
